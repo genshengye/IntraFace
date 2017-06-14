@@ -1,0 +1,93 @@
+﻿  binary_model_file.cpp
+  DemoTracker.cpp
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/Marcos.h(45): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: 参见“max”的前一个定义
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(80): warning C4251: “INTRAFACE::FaceAlignment::m_DR”: class“std::vector<cv::Mat,std::allocator<_Ty>>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+          with
+          [
+              _Ty=cv::Mat
+          ]
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(1335): note: 参见“std::vector<cv::Mat,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=cv::Mat
+          ]
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(80): warning C4251: “INTRAFACE::FaceAlignment::m_Db”: class“std::vector<cv::Mat,std::allocator<_Ty>>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+          with
+          [
+              _Ty=cv::Mat
+          ]
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(1335): note: 参见“std::vector<cv::Mat,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=cv::Mat
+          ]
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(80): warning C4251: “INTRAFACE::FaceAlignment::m_TR”: class“std::vector<cv::Mat,std::allocator<_Ty>>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+          with
+          [
+              _Ty=cv::Mat
+          ]
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(1335): note: 参见“std::vector<cv::Mat,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=cv::Mat
+          ]
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(80): warning C4251: “INTRAFACE::FaceAlignment::m_Tb”: class“std::vector<cv::Mat,std::allocator<_Ty>>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+          with
+          [
+              _Ty=cv::Mat
+          ]
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(1335): note: 参见“std::vector<cv::Mat,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=cv::Mat
+          ]
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(81): warning C4251: “INTRAFACE::FaceAlignment::m_winsize”: class“std::vector<int,std::allocator<_Ty>>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+          with
+          [
+              _Ty=int
+          ]
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(2223): note: 参见“std::vector<int,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=int
+          ]
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(82): warning C4251: “INTRAFACE::FaceAlignment::m_flags”: class“std::vector<bool,std::allocator<_Ty>>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+          with
+          [
+              _Ty=bool
+          ]
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(82): note: 参见“std::vector<bool,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=bool
+          ]
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(83): warning C4251: “INTRAFACE::FaceAlignment::m_w”: class“cv::Mat”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(1684): note: 参见“cv::Mat”的声明
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(84): warning C4251: “INTRAFACE::FaceAlignment::m_meanShape2D”: class“cv::Mat”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(1684): note: 参见“cv::Mat”的声明
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(86): warning C4251: “INTRAFACE::FaceAlignment::m_cropROI”: class“cv::Rect_<int>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(892): note: 参见“cv::Rect_<int>”的声明
+F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\intraface/FaceAlignment.h(87): warning C4251: “INTRAFACE::FaceAlignment::m_offset”: class“cv::Rect_<_Tp>”需要有 dll 接口由 class“INTRAFACE::FaceAlignment”的客户端使用
+          with
+          [
+              _Tp=double
+          ]
+  F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\include\opencv2/core/core.hpp(760): note: 参见“cv::Rect_<_Tp>”的声明
+          with
+          [
+              _Tp=double
+          ]
+..\src\DemoTracker.cpp(59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+..\src\DemoTracker.cpp(61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+..\src\DemoTracker.cpp(62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+..\src\DemoTracker.cpp(63): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+..\src\DemoTracker.cpp(78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+..\src\DemoTracker.cpp(82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+..\src\DemoTracker.cpp(86): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+..\src\DemoTracker.cpp(129): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码
+  All 230 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  IntraFaceTracker.vcxproj -> F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\x64\Release\IntraFaceTracker.exe
+  IntraFaceTracker.vcxproj -> F:\WinCode\FaceDetect\intraFace\IntraFace-v1.2\IntraFace-v1.2\x64\Release\IntraFaceTracker.pdb (Full PDB)
