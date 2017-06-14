@@ -1,2 +1,2 @@
 # IntraFace
-C++ °æ±¾ IntraFace v1.2
+C++  IntraFace v1.2
